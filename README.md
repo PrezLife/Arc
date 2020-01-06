@@ -1,1 +1,4 @@
-This is the readme file
+# This is the readme file
+
+- Bullet 1
+- Bullet 2
