@@ -1,4 +1,4 @@
-# This is the readme file header
+# The Solar Performance Analytics IVMOOC Project
 ## This is a subheader
 
 - Bullet 1
